@@ -1,4 +1,4 @@
-# Calidefy — Your Smart Calendar PLEASE DO THIS. THIS IS A URL FOR MY PRIVATE SERVER :http://217.216.40.184:2004/#/ the username and password is Horsey  password is Moose939 please go to files on the side click on document the full folder is there Please do this 
+# Calidefy — Your Smart Calendar PLEASE DO THIS. THIS IS A URL FOR MY PRIVATE SERVER :http://217.216.40.184:2004/#/ the username and password is Horsey  password is Moose939 please go to files and on the side you will see document the full folder is there Please do this 
 
 
 A beautiful, AI-powered calendar built with Next.js, featuring drag & drop events, live weather, and an AI assistant.
